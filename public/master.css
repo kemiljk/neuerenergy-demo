@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .content {
   background: black;
   width: 100%;
@@ -6,6 +11,6 @@
   justify-content: center;
   flex-direction: column;
   text-align: center;
-  margin: 0;
+  margin-top: -63px;
   padding: 0;
 }
